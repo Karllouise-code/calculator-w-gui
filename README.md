@@ -4,4 +4,4 @@
 ![](https://github.com/Karllouise-code/calculator-w-gui/blob/master/image/calculator.gif)
 
 
-Mockups: Bro Code
+&copy; Bro Code
